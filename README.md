@@ -1,7 +1,7 @@
 # NewtoGitHub
 Exploring Git <br/>
 **Git push to GitHub [Beginner]** <br/>
-1st step - set your username by using < @@git config --global user.name "Your name"@@ > <br/>
+1st step - set your username by using < @@ git config --global user.name "Your name" @@ > <br/>
 2nd step - set your email by using < **git config --global user.email "Your email"** > <br/>
 3rd step - **cd** to your specific folder <br/>
 4th step - use < **git status** > to check the status of the folder <br/>
